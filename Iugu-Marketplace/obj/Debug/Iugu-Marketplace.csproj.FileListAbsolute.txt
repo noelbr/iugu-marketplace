@@ -1,0 +1,10 @@
+c:\users\noel\documents\visual studio 2013\Projects\Iugu-Marketplace\Iugu-Marketplace\bin\Debug\Iugu-Marketplace.exe.config
+c:\users\noel\documents\visual studio 2013\Projects\Iugu-Marketplace\Iugu-Marketplace\bin\Debug\Iugu-Marketplace.exe
+c:\users\noel\documents\visual studio 2013\Projects\Iugu-Marketplace\Iugu-Marketplace\bin\Debug\Iugu-Marketplace.pdb
+c:\users\noel\documents\visual studio 2013\Projects\Iugu-Marketplace\Iugu-Marketplace\bin\Debug\Newtonsoft.Json.dll
+c:\users\noel\documents\visual studio 2013\Projects\Iugu-Marketplace\Iugu-Marketplace\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\noel\documents\visual studio 2013\Projects\Iugu-Marketplace\Iugu-Marketplace\bin\Debug\Newtonsoft.Json.xml
+c:\users\noel\documents\visual studio 2013\Projects\Iugu-Marketplace\Iugu-Marketplace\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\noel\documents\visual studio 2013\Projects\Iugu-Marketplace\Iugu-Marketplace\obj\Debug\Iugu-Marketplace.csprojResolveAssemblyReference.cache
+c:\users\noel\documents\visual studio 2013\Projects\Iugu-Marketplace\Iugu-Marketplace\obj\Debug\Iugu-Marketplace.exe
+c:\users\noel\documents\visual studio 2013\Projects\Iugu-Marketplace\Iugu-Marketplace\obj\Debug\Iugu-Marketplace.pdb
